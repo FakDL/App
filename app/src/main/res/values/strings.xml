@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">App</string>
+    <string name="sign_in">Войти</string>
+    <string name="hint1">Введите почту и пароль.</string>
+    <string name="exit_button">Выход</string>
+    <string name="profile">Профиль</string>
+    <string name="email">Ваша почта:</string>
+    <string name="email_name">email_name</string>
+    <string name="name">Имя:</string>
+    <string name="your_name">имя</string>
+    <string-array name="users">
+        <item>qwerty@gmail.com Ii3456 Иван Иванов</item>
+        <item>asdfg@mail.ru 798456Uu Мистер Мистер</item>
+    </string-array>
+</resources>
